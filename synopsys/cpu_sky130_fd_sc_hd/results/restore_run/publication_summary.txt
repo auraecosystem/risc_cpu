@@ -1,12 +1,13 @@
 ================================================================================
-RISC-V CPU - SKY130 130nm - Performance Characterization
+cpu - 45nm CMOS - Performance Characterization (Restored Design)
 ================================================================================
 
 DESIGN INFORMATION:
   Design Name:           cpu
   Top Module:            cpu
-  Technology:            SKY130 130nm
-  Analysis Date:         2025-11-08 18:49:41
+  Technology:            45nm CMOS
+  Analysis Date:         2025-11-08 19:09:33
+  Analysis Type:         Restored from saved design
 
 TIMING ANALYSIS:
   Current Clock Period:  10.000000 ns
