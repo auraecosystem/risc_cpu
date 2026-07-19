@@ -1,9 +1,9 @@
 === ARCHITECTURE COMPILATION REPORT ===
 Platform 	 Build Status 	 Speed (s)
 ---------------------------------------------
-Apple-M4   |	 SUCCESS      |	 12.4    
-Intel-x86  	| SUCCESS      |	 45.2    
+Apple-M4   	 SUCCESS      	 12.4    
+Intel-x86  	 SUCCESS      	 45.2    
 ⚠️ ALERT: Platform AMD-64 failed during compilation phase!
-ARM-64     	 |SUCCESS      	 |14.1    
+ARM-64     	 SUCCESS      	 14.1    
 ---------------------------------------------
 Parsing Complete.
